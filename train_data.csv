@@ -107,8 +107,8 @@ maxabs_scaling                , RandomForestRegressor, 92.60000000000001, 1.0
 maxabs_scaling                , ExtraTreesRegressor, 84.89999999999999, 1.0
 maxabs_scaling                , Lasso          , 91.0, 0.0
 maxabs_scaling                , ElasticNet     , 91.3, 0.0
-axabs_scaling                , LassoLars      , 90.7, 0.0
-axabs_scaling                , OrthogonalMatchingPursuit, 90.3, 0.0
+maxabs_scaling                , LassoLars      , 90.7, 0.0
+maxabs_scaling                , OrthogonalMatchingPursuit, 90.3, 0.0
 maxabs_scaling                , BayesianRidge  , 90.4, 0.0
 maxabs_scaling                , Ridge          , 91.0, 0.0
 maxabs_scaling                , SGDRegressor   , -2.9793951223671892e+32, 0.0
